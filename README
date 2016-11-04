@@ -1,0 +1,17 @@
+the pickle files here must be located in a subfolder called "pickle_files"
+relative to the Sent_Analysis python file 
+for the python to be able to acces the data in the pickle files
+
+ie
+directory contents:
+-------------------
+python_script.py 
+pickle_files (folder containing the several pickle files)
+
+Alternatively the path can be modified in the python script
+for each open command opening the pickle files
+
+daniel phillis
+FAN phil0411
+daniel.phillis@gmail.com
+
