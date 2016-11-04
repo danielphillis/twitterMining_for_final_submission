@@ -1,0 +1,9 @@
+#------------------------------------------------------------------
+# This code thankfully acknowledges the python from the book
+# "Mining the Social Web " (2nd Edition) by M. Russel
+# and the tutorials by Harrison on the youtube channel "sentdex"
+# this code developed by daniel phillis
+# SID 2110633, FAN phil0411
+# with the help mentioned above
+#------------------------------------------------------------------
+
